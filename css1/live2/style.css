@@ -12,3 +12,7 @@ header{
 }
 
 /* footer */
+
+footer{
+    border-top: 2px solid #CF8B05;
+}
